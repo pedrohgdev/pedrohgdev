@@ -90,17 +90,17 @@ My current focus is on developing real-world projects while continuously improvi
 
 ## 🚀 Featured Projects
 
-### 🎨 Sweet Leaf Tattoo
+### 🧠 Espaço Aprender e Saber
 
-A modern landing page designed to showcase tattoo artwork, artist identity, and contact information.
+A landing page built for a psychopedagogical care practice, presenting the services, the professional's approach, and a direct contact path for families. Delivered to a real client.
 
 **Tech:** HTML • CSS • JavaScript
 
 ---
 
-### 🏨 Villa Salud
+### 🌿 Recanto da Grota
 
-A modern landing page concept for a chalet and events business, focused on visual presentation, accommodation information, and customer contact.
+A landing page for a countryside retreat offering lodging, focused on showcasing the space, its surroundings, and an easy way to book through direct contact. Delivered to a real client.
 
 **Tech:** HTML • CSS • JavaScript
 
